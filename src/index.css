@@ -11,3 +11,104 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* get rid of list bullet points */
+* {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+/* elimante styling for links */
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+/* profile picture */
+#profPic {
+  height: 10%;
+  width: 10%;
+  border-radius: 50%
+}
+/* social displays horizontally */
+#social-container > *{
+  display: inline-block;
+}
+
+/* social links */
+.social-link {
+  padding: 30px;
+  padding-bottom: 25px;
+  height: 50px;
+  width: 50px;
+  transition: 0.8s;
+  border-radius: 50%;
+}
+
+/* social link subtitle */
+.social-subtitle {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+/* on mouse hover on social links */
+.social-link:hover {
+  filter: opacity(50%) invert(100%);
+  cursor: pointer;
+}
+
+/* project logos */
+.project-logo {
+  height: 125px;
+  width: 125px;
+}
+
+/* project container */
+.project-container {
+  text-align: center;
+  padding: 40px;
+  padding-bottom: 0px;
+  width: 400px;
+}
+
+/* porject description */
+.project-description {
+  font-size: 12px;
+}
+
+/* all children of project container */
+.project-container > * {
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* all children of project links */
+.project-links-list > * {
+  padding-right: 40px;
+}
+
+/* all projects */
+#all-projects {
+  text-align: center;
+}
+
+/* all children of all projects */
+#all-projects > * {
+  display: inline-block;
+}
+
+/* project logo */
+.project-logo {
+  transition: 0.8s;
+}
+
+/* on mouse hover on project links */
+.project-container:hover .project-logo{
+  filter: opacity(25%);
+}
+
+/* on hover for project links */
+.project-link:hover {
+  filter: opacity(25%)
+}
