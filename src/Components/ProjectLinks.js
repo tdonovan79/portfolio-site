@@ -17,7 +17,7 @@ export default function ProjectLinks() {
                 gitFront='https://github.com/tdonovan79/fifteen-minute-food-frontend'
                 gitBack='https://github.com/tdonovan79/fifteen_min_backend'
                 liveUrl='https://tdonovan79.github.io/basket_front_end/'
-                demo='https://www.youtube.com/watch?v=hfgu9UgRhsc'
+                demo='https://youtu.be/k0OjTeKv4ZI'
             />
             <Project
                 name='Fifteen Minute Food'
@@ -26,7 +26,7 @@ export default function ProjectLinks() {
                 gitFront='https://github.com/tdonovan79/fifteen-minute-food-frontend'
                 gitBack='https://github.com/tdonovan79/fifteen_min_backend'
                 liveUrl='https://tdonovan79.github.io/fifteen-minute-food-frontend/'
-                demo='https://www.youtube.com/watch?v=hfgu9UgRhsc'
+                demo='https://www.youtube.com/watch?v=t-kFVgMSrgk'
             />
             <Project
                 name='Pokemon Battle'
@@ -35,7 +35,7 @@ export default function ProjectLinks() {
                 gitFront='https://github.com/tdonovan79/pokemon_battle_frontend'
                 gitBack='https://github.com/tdonovan79/pokemon-battle-backend'
                 liveUrl='https://tdonovan79.github.io/pokemon_battle_frontend/'
-                demo='https://www.youtube.com/watch?v=hfgu9UgRhsc'
+                demo='https://www.youtube.com/watch?v=5qEZd4CFnn8'
             />
         </div>
     )
