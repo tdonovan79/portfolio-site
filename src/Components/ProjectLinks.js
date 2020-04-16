@@ -17,16 +17,16 @@ export default function ProjectLinks() {
                 gitFront='https://github.com/tdonovan79/fifteen-minute-food-frontend'
                 gitBack='https://github.com/tdonovan79/fifteen_min_backend'
                 liveUrl='https://tdonovan79.github.io/basket_front_end/'
-                demo='https://youtu.be/k0OjTeKv4ZI'
+                demo='https://www.youtube.com/watch?v=jhEDriz6Y_k'
             />
             <Project
                 name='Fifteen Minute Food'
                 image={Scooter}
-                desc='Fifteen Minute Food is an app for users to order food for delivery. The front end is built using React, and the back end with Ruby on Rails. YelpAPI is used to search reatarants and get their information, and StripeAPI is used to process payment. It allows users to search for restaurants, add food items to their cart, checkout and view past orders.'
+                desc='Fifteen Minute Food is an app for users to order food. The front end is built using React, and the back end with Ruby on Rails. YelpAPI is used to search restaurants and get their information, and StripeAPI is used to process payment. It allows users to search for restaurants, add food items to their cart, checkout and view past orders.'
                 gitFront='https://github.com/tdonovan79/fifteen-minute-food-frontend'
                 gitBack='https://github.com/tdonovan79/fifteen_min_backend'
                 liveUrl='https://tdonovan79.github.io/fifteen-minute-food-frontend/'
-                demo='https://www.youtube.com/watch?v=t-kFVgMSrgk'
+                demo='https://www.youtube.com/watch?v=VLtyhTnysqU'
             />
             <Project
                 name='Pokemon Battle'
@@ -35,7 +35,7 @@ export default function ProjectLinks() {
                 gitFront='https://github.com/tdonovan79/pokemon_battle_frontend'
                 gitBack='https://github.com/tdonovan79/pokemon-battle-backend'
                 liveUrl='https://tdonovan79.github.io/pokemon_battle_frontend/'
-                demo='https://www.youtube.com/watch?v=5qEZd4CFnn8'
+                demo='https://www.youtube.com/watch?v=OhEgWeyjTnM'
             />
         </div>
     )
